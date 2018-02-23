@@ -11,5 +11,6 @@
     <Content Include="Repositories\IRepository.cs" />
     <Content Include="Repositories\IRoomRepository.cs" />
     <Content Include="Repositories\IClientRepository.cs" />
+    <Content Include="Repositories\IReservation.cs" />
   </ItemGroup>
 </Project>
