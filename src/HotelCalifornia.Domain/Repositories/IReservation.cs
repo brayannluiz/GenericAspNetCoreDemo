@@ -4,6 +4,6 @@ namespace HotelCalifornia.Domain.Repositories
 {
     public interface IReservation : IRepository<Reservation>
     {
-         
+         fd
     }
 }
