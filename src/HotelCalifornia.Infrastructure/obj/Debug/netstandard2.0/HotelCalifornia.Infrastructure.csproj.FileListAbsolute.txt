@@ -1,0 +1,9 @@
+C:\dev\HotelCalifornia\src\HotelCalifornia.Infrastructure\bin\Debug\netstandard2.0\HotelCalifornia.Infrastructure.deps.json
+C:\dev\HotelCalifornia\src\HotelCalifornia.Infrastructure\bin\Debug\netstandard2.0\HotelCalifornia.Infrastructure.dll
+C:\dev\HotelCalifornia\src\HotelCalifornia.Infrastructure\bin\Debug\netstandard2.0\HotelCalifornia.Infrastructure.pdb
+C:\dev\HotelCalifornia\src\HotelCalifornia.Infrastructure\obj\Debug\netstandard2.0\HotelCalifornia.Infrastructure.AssemblyInfo.cs
+C:\dev\HotelCalifornia\src\HotelCalifornia.Infrastructure\obj\Debug\netstandard2.0\HotelCalifornia.Infrastructure.dll
+C:\dev\HotelCalifornia\src\HotelCalifornia.Infrastructure\obj\Debug\netstandard2.0\HotelCalifornia.Infrastructure.pdb
+C:\dev\HotelCalifornia\src\HotelCalifornia.Infrastructure\obj\Debug\netstandard2.0\HotelCalifornia.Infrastructure.csprojResolveAssemblyReference.cache
+C:\dev\HotelCalifornia\src\HotelCalifornia.Infrastructure\obj\Debug\netstandard2.0\HotelCalifornia.Infrastructure.csproj.CoreCompileInputs.cache
+C:\dev\HotelCalifornia\src\HotelCalifornia.Infrastructure\obj\Debug\netstandard2.0\HotelCalifornia.Infrastructure.AssemblyInfoInputs.cache
