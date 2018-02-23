@@ -8,5 +8,8 @@
     <Content Include="Entities\Client.cs" />
     <Content Include="Entities\Reservation.cs" />
     <Content Include="Entities\Room.cs" />
+    <Content Include="Repositories\IRepository.cs" />
+    <Content Include="Repositories\IRoomRepository.cs" />
+    <Content Include="Repositories\IClientRepository.cs" />
   </ItemGroup>
 </Project>

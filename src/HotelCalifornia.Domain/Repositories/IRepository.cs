@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Linq.Expressions;
 
 namespace HotelCalifornia.Domain.Repositories
 {
@@ -7,7 +8,7 @@ namespace HotelCalifornia.Domain.Repositories
     {
         T GetById(Guid id);
         IEnumerable<T> GetAll();
-        IEnumerable<T> GetAllWhere(Func<T> where);
-        void Update();
+        IEnumerable<T> Find(Expression<Func<T, bool>> predicate);
+        void Update(T entity);
     }
 }
