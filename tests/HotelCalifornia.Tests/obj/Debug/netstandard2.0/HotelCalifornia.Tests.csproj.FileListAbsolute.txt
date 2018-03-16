@@ -1,3 +1,0 @@
-C:\dev\HotelCalifornia\tests\HotelCalifornia.Tests\obj\Debug\netstandard2.0\HotelCalifornia.Tests.csproj.CoreCompileInputs.cache
-C:\dev\HotelCalifornia\tests\HotelCalifornia.Tests\obj\Debug\netstandard2.0\HotelCalifornia.Tests.AssemblyInfoInputs.cache
-C:\dev\HotelCalifornia\tests\HotelCalifornia.Tests\obj\Debug\netstandard2.0\HotelCalifornia.Tests.AssemblyInfo.cs

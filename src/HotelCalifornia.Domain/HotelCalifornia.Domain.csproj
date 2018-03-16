@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
     <Content Include="Entities\ValueObjects\Email.cs" />
@@ -11,6 +11,7 @@
     <Content Include="Repositories\IRepository.cs" />
     <Content Include="Repositories\IRoomRepository.cs" />
     <Content Include="Repositories\IClientRepository.cs" />
-    <Content Include="Repositories\IReservation.cs" />
+    <Content Include="obj\project.assets.json" />
+    <Content Include="Repositories\IReservationRepository.cs" />
   </ItemGroup>
 </Project>

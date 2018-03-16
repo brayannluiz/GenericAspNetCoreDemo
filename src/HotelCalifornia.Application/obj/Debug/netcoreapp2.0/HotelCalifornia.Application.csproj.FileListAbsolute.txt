@@ -1,0 +1,7 @@
+C:\dev\HotelCalifornia\src\HotelCalifornia.Application\bin\Debug\netcoreapp2.0\HotelCalifornia.Application.deps.json
+C:\dev\HotelCalifornia\src\HotelCalifornia.Application\bin\Debug\netcoreapp2.0\HotelCalifornia.Application.dll
+C:\dev\HotelCalifornia\src\HotelCalifornia.Application\bin\Debug\netcoreapp2.0\HotelCalifornia.Application.pdb
+C:\dev\HotelCalifornia\src\HotelCalifornia.Application\obj\Debug\netcoreapp2.0\HotelCalifornia.Application.AssemblyInfo.cs
+C:\dev\HotelCalifornia\src\HotelCalifornia.Application\obj\Debug\netcoreapp2.0\HotelCalifornia.Application.dll
+C:\dev\HotelCalifornia\src\HotelCalifornia.Application\obj\Debug\netcoreapp2.0\HotelCalifornia.Application.pdb
+C:\dev\HotelCalifornia\src\HotelCalifornia.Application\obj\Debug\netcoreapp2.0\HotelCalifornia.Application.csprojResolveAssemblyReference.cache

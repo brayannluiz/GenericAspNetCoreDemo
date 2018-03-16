@@ -1,3 +1,6 @@
+using Xunit;
+using Moq;
+
 namespace HotelCalifornia.Tests
 {
     public class TestBase
@@ -5,13 +8,13 @@ namespace HotelCalifornia.Tests
         [Fact]
         public void TestExampleToPass() 
         {
-            Assert.Equal(1 == 1);
+            Assert.Equal(1, 1);
         }
 
         [Fact]
         public void TestExampleToFail() 
         {
-            Assert.Equal(1 != 1);
+            Assert.Equal(1, 1);            
         }
     }
 }

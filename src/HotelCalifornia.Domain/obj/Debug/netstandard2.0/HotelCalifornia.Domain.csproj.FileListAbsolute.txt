@@ -1,5 +1,3 @@
-C:\dev\HotelCalifornia\src\HotelCalifornia.Domain\obj\Debug\netstandard2.0\HotelCalifornia.Domain.csproj.CoreCompileInputs.cache
-C:\dev\HotelCalifornia\src\HotelCalifornia.Domain\obj\Debug\netstandard2.0\HotelCalifornia.Domain.AssemblyInfoInputs.cache
 C:\dev\HotelCalifornia\src\HotelCalifornia.Domain\obj\Debug\netstandard2.0\HotelCalifornia.Domain.AssemblyInfo.cs
 C:\dev\HotelCalifornia\src\HotelCalifornia.Domain\bin\Debug\netstandard2.0\HotelCalifornia.Domain.deps.json
 C:\dev\HotelCalifornia\src\HotelCalifornia.Domain\obj\Debug\netstandard2.0\HotelCalifornia.Domain.csprojResolveAssemblyReference.cache
@@ -7,3 +5,5 @@ C:\dev\HotelCalifornia\src\HotelCalifornia.Domain\bin\Debug\netstandard2.0\Hotel
 C:\dev\HotelCalifornia\src\HotelCalifornia.Domain\bin\Debug\netstandard2.0\HotelCalifornia.Domain.pdb
 C:\dev\HotelCalifornia\src\HotelCalifornia.Domain\obj\Debug\netstandard2.0\HotelCalifornia.Domain.dll
 C:\dev\HotelCalifornia\src\HotelCalifornia.Domain\obj\Debug\netstandard2.0\HotelCalifornia.Domain.pdb
+C:\dev\HotelCalifornia\src\HotelCalifornia.Domain\obj\Debug\netstandard2.0\HotelCalifornia.Domain.csproj.CoreCompileInputs.cache
+C:\dev\HotelCalifornia\src\HotelCalifornia.Domain\obj\Debug\netstandard2.0\HotelCalifornia.Domain.AssemblyInfoInputs.cache

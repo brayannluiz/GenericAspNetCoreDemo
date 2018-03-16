@@ -1,0 +1,7 @@
+C:\dev\HotelCalifornia\tests\HotelCalifornia.Tests\obj\Debug\netcoreapp2.0\HotelCalifornia.Tests.csproj.CoreCompileInputs.cache
+C:\dev\HotelCalifornia\tests\HotelCalifornia.Tests\obj\Debug\netcoreapp2.0\HotelCalifornia.Tests.AssemblyInfoInputs.cache
+C:\dev\HotelCalifornia\tests\HotelCalifornia.Tests\obj\Debug\netcoreapp2.0\HotelCalifornia.Tests.AssemblyInfo.cs
+C:\dev\HotelCalifornia\tests\HotelCalifornia.Tests\bin\Debug\netcoreapp2.0\HotelCalifornia.Tests.deps.json
+C:\dev\HotelCalifornia\tests\HotelCalifornia.Tests\bin\Debug\netcoreapp2.0\HotelCalifornia.Tests.runtimeconfig.json
+C:\dev\HotelCalifornia\tests\HotelCalifornia.Tests\bin\Debug\netcoreapp2.0\HotelCalifornia.Tests.runtimeconfig.dev.json
+C:\dev\HotelCalifornia\tests\HotelCalifornia.Tests\obj\Debug\netcoreapp2.0\HotelCalifornia.Tests.csprojResolveAssemblyReference.cache
